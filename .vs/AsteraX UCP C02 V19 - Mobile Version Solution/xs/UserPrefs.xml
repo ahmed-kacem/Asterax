@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40F5701D-8886-1AFE-16CE-AE300DF81543}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/AsteraX.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/AsteraX.cs" Line="58" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AsteraX_220UCP_220C02_220V19_220-_220Mobile_220Version_220Solution PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
